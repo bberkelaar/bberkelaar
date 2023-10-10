@@ -1,5 +1,12 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on managing infrastructure: authN, authZ, endpoint management and their role in security posture in hybrid (Azure) environments. 
+- 🌱 I’m currently learning infrastructure as code
+- 👯 I’m looking to collaborate on the template for managing infra as code for multiple customers
+- 🤔 I’m looking for help with setup of environment where central and decentral management of environments is possible at the same time.
+- 💬 Ask me about innovation and creative solutions
+- 📫 How to reach me: [https://www.linkedin.com/in/boris-berkelaar/](https://www.linkedin.com/in/boris-berkelaar/)
+- 😄 Pronouns: He/him/his
+- ⚡ Fun fact: I laugh easily.
 <!--
 **bberkelaar/bberkelaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
